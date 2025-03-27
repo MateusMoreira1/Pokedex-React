@@ -48,11 +48,11 @@ Este é um projeto de Pokédex desenvolvido em React. Ele permite visualizar inf
 Aqui estão algumas imagens do projeto em execução:  
 
 <p align="center">
-  <img src="Imagem1.png" alt="Tela Inicial" width="400">
+  <img src="Img1.png" alt="Tela Inicial" width="400">
 </p>
 
 <p align="center">
-  <img src="Imagem2.png" alt="Detalhes do Pokémon" width="400">
+  <img src="Img2.png" alt="Detalhes do Pokémon" width="400">
 </p>
 
 
