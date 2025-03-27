@@ -1,19 +1,23 @@
-const Colors = {
-  brand_dark: "#212529",
-  brand_green: "#13ce66",
-  brand_pink: "#fe8bc4",
-  brand_red: "#ff0000 ",
-  brand_yellow: "#ffcb2c",
-  brand_orange: "#fd7d24",
+const Colors = { 
+  brand: {
+    dark: "#212529",
+    green: "#13ce66",
+    pink: "#fe8bc4",
+    red: "#ff0000",
+    yellow: "#ffcb2c",
+    orange: "#fd7d24",
+    gray: "#c2c2c2",
+  },
 
-  darkest_gray: "#333333",
-  darker_gray: "#666666",
-  dark_gray: "#444444",
-  brand_gray: "#c2c2c2",
-  light_gray: "#dddddd",
-  lighter_gray: "#eeeeee",
-  lightest_gray: "#f2f2f2",
-  card_gray: "#495057",
+  gray: {
+    darkest: "#333333",
+    darker: "#666666",
+    dark: "#444444",
+    light: "#dddddd",
+    lighter: "#eeeeee",
+    lightest: "#f2f2f2",
+    card: "#495057",
+  }
 };
 
 export default Colors;
