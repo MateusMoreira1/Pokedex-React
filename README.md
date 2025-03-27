@@ -47,8 +47,13 @@ Este é um projeto de Pokédex desenvolvido em React. Ele permite visualizar inf
 ## Capturas de Tela
 Aqui estão algumas imagens do projeto em execução:
 
-![Tela Inicial](./screenshots/home.png)
-![Detalhes do Pokémon](./screenshots/details.png)
+<p align="center">
+  <img src="Pokedex-React/Imagem1" width="250">
+</p>
+
+<p align="center">
+  <img src="Pokedex-React/Imagem2" width="250">
+</p>
 
 ## Estrutura do Projeto
 - `public/`: Contém arquivos estáticos
