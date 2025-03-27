@@ -65,13 +65,4 @@ Aqui estão algumas imagens do projeto em execução:
   - `styles/`: Arquivos de estilização
   - `routes/`: Configuração das rotas do aplicativo
 
-## Contribuição
-1. Fork este repositório
-2. Crie uma branch para sua feature (`git checkout -b minha-feature`)
-3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`)
-4. Faça push para a branch (`git push origin minha-feature`)
-5. Abra um Pull Request
-
-## Licença
-Este projeto está sob a licença MIT.
 
