@@ -3,6 +3,8 @@
 ## Descrição
 Este é um projeto de Pokédex desenvolvido em React. Ele permite visualizar informações sobre diversos Pokémon, incluindo nomes, imagens e atributos.
 
+🔗 **Veja o projeto em ação:** [Pokedex Online](https://pokedex-react-4brl799hg-mateus-dos-santos-moreiras-projects.vercel.app/)  ou https://pokedex-react-4brl799hg-mateus-dos-santos-moreiras-projects.vercel.app
+
 ## Tecnologias Utilizadas
 - React.js
 - JavaScript (ES6+)
